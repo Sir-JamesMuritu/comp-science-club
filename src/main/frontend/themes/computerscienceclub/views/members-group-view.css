@@ -1,0 +1,19 @@
+@media screen and (max-width: 740px) {
+ .members-group-view {
+    flex-direction: column-reverse;
+  }
+ .members-group-view aside {
+    width: 100% !important;
+    flex-direction: row;
+  }
+ .members-group-view aside header {
+    display: none;
+  }
+ .members-group-view aside vaadin-tabs {
+    flex: 1 1 auto;
+    overflow: auto;
+  }
+ .members-group-view aside vaadin-tabs vaadin-tab.justify-between {
+    justify-content: flex-start;
+  }
+}

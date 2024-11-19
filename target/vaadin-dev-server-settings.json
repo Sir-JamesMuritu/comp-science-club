@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\jemo7\\Downloads\\comp-science-club\\comp-science-club\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\jemo7\\Downloads\\comp-science-club\\comp-science-club\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/jemo7/Downloads/comp-science-club/comp-science-club/src/main/frontend/generated/jar-resources",
+  "themeName": "computerscienceclub",
+  "clientServiceWorkerSource": "C:\\Users\\jemo7\\Downloads\\comp-science-club\\comp-science-club\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
